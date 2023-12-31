@@ -117,8 +117,6 @@
 | 19:36:23     | Dance Monkey                                 | Tones and I                       | 03:30    |
 | 19:39:53     | Watermelon Sugar                             | Harry Styles                       | 02:54    |
 | 19:42:47     | Don't Start Now                              | Dua Lipa                           | 03:03    |
-| Čas           | Skladba                                      | Interpret                           | Délka    |
-|--------------|----------------------------------------------|-------------------------------------|----------|
 | 19:45:50     | Shape of You                                 | Ed Sheeran                         | 03:53    |
 | 19:49:43     | Dynamite                                     | BTS                               | 03:19    |
 | 19:53:02     | Levitating                                   | Dua Lipa ft. DaBaby               | 03:24    |
@@ -177,8 +175,6 @@
 | 23:14:08     | Dynamite                                     | BTS                               | 03:19    |
 | 23:17:27     | Levitating                                   | Dua Lipa ft. DaBaby               | 03:24    |
 | 23:20:51     | Bad Romance                                  | Lady Gaga                          | 04:54    |
-| Čas           | Skladba                                      | Interpret                           | Délka    |
-|--------------|----------------------------------------------|-------------------------------------|----------|
 | 23:25:45     | Can't Feel My Face                           | The Weeknd                         | 03:34    |
 | 23:29:19     | Sugar                                        | Maroon 5                           | 03:55    |
 | 23:33:14     | Happy Now                                    | Zedd, Elley Duhé                   | 03:27    |
