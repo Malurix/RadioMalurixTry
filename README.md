@@ -60,7 +60,7 @@
 | 16:00:36     | Uptown Funk                                  | Mark Ronson ft. Bruno Mars         | 04:31    |
 | 16:05:07     | Can't Stop the Feeling!                      | Justin Timberlake         | 3:58    |
 | 16:09:05     | Blinding Lights                              | The Weeknd                         | 00:33    |
-| 16:09:38     | Blinding Lights                              | The Weeknd                         | 03:20    |
+| 16:09:38     | Přestávka                              | Přestávka                         | 03:20    |
 | 16:12:58     | Dance Monkey                                 | Tones and I                       | 03:30    |
 | 16:16:28     | Watermelon Sugar                             | Harry Styles                       | 02:54    |
 | 16:19:22     | Don't Start Now                              | Dua Lipa                           | 03:03    |
